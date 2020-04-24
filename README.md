@@ -3,7 +3,7 @@
 > An Art Company
 
 
-## Company Code
+
 
 
 
